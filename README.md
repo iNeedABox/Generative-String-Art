@@ -27,3 +27,7 @@ String Art Generation is a demonstration of algorithmic art generation, where li
     cd GenerativeStringArt
     pip install -r requirements.txt
     ```
+
+## Previews
+- The following image belongs to the software's outcome:
+  ![Preview Image](output/previews/preview.png)
