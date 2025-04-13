@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!WARNING]
 > .
 
 ## String Art Generation
