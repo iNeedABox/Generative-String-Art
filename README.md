@@ -20,6 +20,9 @@ String Art Generation is a demonstration of algorithmic art generation, where li
 
 ## Install Requirements
 
+> [!CAUTION]
+> These guides might seem helpful but they don't cover all possible configurations slash preferences.
+
 1. **Download Python 3.13.3 or older from the official website:**
 
    If you wish to download Python, simply click the following link: [Download Python](https://www.python.org/downloads/)
@@ -60,8 +63,6 @@ Once you have completed all the previous steps and confirmed that Python is inst
 cd src
 python string_art.py
 ```
-> [!CAUTION]
-   > These guides might seem helpful but they don't cover all possible configurations slash preferences.
 
 ## Previews
 - The following image belongs to the software's outcome:
