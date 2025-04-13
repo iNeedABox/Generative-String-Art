@@ -25,6 +25,10 @@ String Art Generation is a demonstration of algorithmic art generation, where li
    ```bash
    python --version
    ```
+   It should appear something like:
+   ```bash
+   Python 3.13.3
+   ```
 
 3. **Navigate to the project directory and install the dependencies:**
 
