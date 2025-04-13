@@ -12,10 +12,6 @@ to generate and animate circular string patterns, exporting the final result as 
 
 String Art Generation is a demonstration of algorithmic art generation, where lines connect points around a circle to form evolving predictable patterns. It's a clear example of how code can be transformed into visual creativity.
 
-## Credits
-
-Author==<span style='color:red'>iNeedABox</span>
-
 ## Technologies Used
 
 - **Python 3.x**
