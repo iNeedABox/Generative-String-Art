@@ -21,7 +21,7 @@ String Art Generation is a demonstration of algorithmic art generation, where li
    If you wish to download Python, simply click the following link: [Download Python](https://www.python.org/downloads/)
    This will take you to the official Python website.
 
-   If you made it to this step, make sure Python was successfully installed on your device:
+   If you reached this step, ensure that Python has been successfully installed on your system by running the following command in your terminal or command prompt:
    ```bash
    python --version
    ```
