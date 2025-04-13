@@ -27,13 +27,13 @@ String Art Generation is a demonstration of algorithmic art generation, where li
    This will take you to the official Python website.
 
    ## Python Not Recognized By Default
-      > If your system doesn't recognize the Python command, it's likely that Python's path hasn't been added to your environment variables.
-      To verify this issue, you can run the following commands in your terminal or command prompt:
-      ```bash
-      where Python # On Windows
-      which Python # On macOS/Linux
-      ```
-      If no path is returned, you may manually add Python to your system's PATH environment variable.
+       If your system doesn't recognize the Python command, it's likely that Python's path hasn't been added to your environment variables.
+       To verify this issue, you can run the following commands in your terminal or command prompt:
+       ```bash
+       where Python # On Windows
+       which Python # On macOS/Linux
+       ```
+       If no path is returned, you may manually add Python to your system's PATH environment variable.
 
    If you reached this step, ensure that Python has been successfully installed on your system by running the following command in your terminal or command prompt:
    ```bash
