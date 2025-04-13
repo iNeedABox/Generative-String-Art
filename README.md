@@ -32,6 +32,8 @@ String Art Generation is a demonstration of algorithmic art generation, where li
 
 3. **Navigate to the project directory and install the dependencies:**
 
+   > Don't forget to extract the **.zip** folder.
+
     ```bash
     cd {your_folder}
     cd Generative-String-Art-1.0.0
