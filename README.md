@@ -53,8 +53,8 @@ String Art Generation is a demonstration of algorithmic art generation, where li
     pip install -r requirements.txt
     ```
 
-> [!CAUTION]
-> These guides are helpful but they don't cover all possible configurations slash preferences.
+   > [!CAUTION]
+   > These guides might seem helpful but they don't cover all possible configurations slash preferences.
 
 ## Run Python Script
 
