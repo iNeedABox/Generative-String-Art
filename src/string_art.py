@@ -1,7 +1,6 @@
 import numpy as np
 from PIL import Image, ImageDraw
 import imageio
-import time
 
 width, height = 800, 600
 num_points = 256
