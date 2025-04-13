@@ -18,8 +18,8 @@ String Art Generation is a demonstration of algorithmic art generation, where li
 
 1. **Download Python 3.13.3 or older from the official website:**
 
-   If you desire download Python click the next link: [Download Python](https://www.python.org/downloads/)
-   Clicking it will redirect you to the official website of Python.
+   If you wish to download Python, simply click the following link: [Download Python](https://www.python.org/downloads/)
+   This will take you to the official Python website.
 
 2. **Navigate to the project directory and install the dependencies:**
 
