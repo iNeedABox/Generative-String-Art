@@ -1,6 +1,7 @@
 > [!WARNING]
 > This file contains multiple guides to help you execute this software properly, but such guides aren't complete.
-> Refer to [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
+> Refer to [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.ç
+> These guides might seem helpful but they don't cover all possible configurations slash preferences.
 
 ## String Art Generation
 
@@ -19,9 +20,6 @@ String Art Generation is a demonstration of algorithmic art generation, where li
 - **Imageio** - for compiling frames into animated GIFs.
 
 ## Install Requirements
-
-> [!CAUTION]
-> These guides might seem helpful but they don't cover all possible configurations slash preferences.
 
 1. **Download Python 3.13.3 or older from the official website:**
 
