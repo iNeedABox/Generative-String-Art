@@ -1,6 +1,8 @@
 > [!IMPORTANT]
 > This file contains multiple guides to help you execute this software properly, but such guides aren't complete.
 > Refer to [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
+
+
 > [!CAUTION]
 > These guides are helpful but they don't cover all possible configurations slash preferences.
 
