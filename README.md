@@ -21,7 +21,15 @@ String Art Generation is a demonstration of algorithmic art generation, where li
    If you wish to download Python, simply click the following link: [Download Python](https://www.python.org/downloads/)
    This will take you to the official Python website.
 
-   The system you're running on this moment may not have the Python path included in the environment variables tab, in order to fix that huge issue and to recognize Python you have to execute the following commands      in your terminal or command prompt:
+   # Python Not Recognized By Default
+      If your system doesn't recognize the Python command, it's likely that Python's path hasn't been added to your environment variables.
+      To fix this issue, you can run the following commands in your terminal or command prompt:
+      ```bash
+      where Python # On Windows
+      which Python # On macOS/Linux
+      ```
+      If no path is returned, you may manually add Python to your system's PATH environment variable.
+      Refer to [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
 
    If you reached this step, ensure that Python has been successfully installed on your system by running the following command in your terminal or command prompt:
    ```bash
