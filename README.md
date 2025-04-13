@@ -1,6 +1,6 @@
 > [!WARNING]
 > This file contains multiple guides to help you execute this software properly, but such guides aren't complete.
-> Refer to [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
+> Refer to the [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
 > These guides might seem helpful but they don't cover all possible configurations slash preferences.
 
 ## String Art Generation
