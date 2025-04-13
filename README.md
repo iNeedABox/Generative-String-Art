@@ -2,10 +2,6 @@
 > This file contains multiple guides to help you execute this software properly, but such guides aren't complete.
 > Refer to [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
 
-
-> [!CAUTION]
-> These guides are helpful but they don't cover all possible configurations slash preferences.
-
 ## String Art Generation
 
 This project creates string art using Python as main language. It leverages **Pillow**, **Imageio**, **Numpy**
@@ -56,6 +52,9 @@ String Art Generation is a demonstration of algorithmic art generation, where li
     cd Generative-String-Art-1.0.0
     pip install -r requirements.txt
     ```
+
+> [!CAUTION]
+> These guides are helpful but they don't cover all possible configurations slash preferences.
 
 ## Run Python Script
 
