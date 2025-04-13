@@ -3,7 +3,7 @@
 > Refer to the [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
 > These guides might seem helpful but they don't cover all possible configurations slash preferences.
 
-## String Art Generation
+# String Art Generation
 
 This project creates string art using Python as main language. It leverages **Pillow**, **Imageio**, **Numpy**
 to generate and animate circular string patterns, exporting the final result as a sequence of rendered frames with format GIF.
@@ -26,7 +26,7 @@ String Art Generation is a demonstration of algorithmic art generation, where li
    If you wish to download Python, simply click the following link: [Download Python](https://www.python.org/downloads/)
    This will take you to the official Python website.
 
-   # Python Not Recognized By Default
+   ## Python Not Recognized By Default
       If your system doesn't recognize the Python command, it's likely that Python's path hasn't been added to your environment variables.
       To fix this issue, you can run the following commands in your terminal or command prompt:
       ```bash
