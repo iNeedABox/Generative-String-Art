@@ -39,7 +39,7 @@ String Art Generation is a demonstration of algorithmic art generation, where li
 
 ## Run Python Script
 
-Once you have completed all the previous steps and confirmed that Python is installed on your system, you're just one step away to see it in action. To run the project use the following command in your terminal or command prompt:
+Once you have completed all the previous steps and confirmed that Python is installed on your system, you're just one step away to see it in action. To run the project, use the following commands in your terminal or command prompt:
 ```bash
 cd src
 python string_art.py
