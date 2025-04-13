@@ -37,6 +37,14 @@ String Art Generation is a demonstration of algorithmic art generation, where li
     pip install -r requirements.txt
     ```
 
+## Run Python File
+
+After accomplishing all these steps and have installed Python on your system, you only have a final step to come ahead, run the software to test it out:
+```bash
+cd src
+python string_art.py
+```
+
 ## Previews
 - The following image belongs to the software's outcome:
   ![Preview Image](output/previews/preview.png)
