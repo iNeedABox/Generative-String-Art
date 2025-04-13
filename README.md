@@ -16,7 +16,12 @@ String Art Generation is a demonstration of algorithmic art generation, where li
 
 ## Install Requirements
 
-1. **Navigate to the project directory and install the dependencies**:
+1. **Download Python 3.13.3 or older from the official website:**
+
+   If you desire download Python click the next link: [Download Python](https://www.python.org/downloads/)
+   Clicking it will redirect you to the official website of Python.
+
+2. **Navigate to the project directory and install the dependencies:**
 
     ```bash
     cd GenerativeStringArt
