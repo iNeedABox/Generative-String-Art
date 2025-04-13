@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> This file contains multiple guides to led you to the right way from executing this software, but this isn't a complete guide.
+> This file contains multiple guides to help you execute this software properly, but such guides aren't complete.
+> Refer to [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
 
 ## String Art Generation
 
@@ -32,7 +33,6 @@ String Art Generation is a demonstration of algorithmic art generation, where li
       which Python # On macOS/Linux
       ```
       If no path is returned, you may manually add Python to your system's PATH environment variable.
-      Refer to [Official Python Installation Guide](https://www.python.org/downloads/) for step-by-step and more topic-depth instructions.
 
    If you reached this step, ensure that Python has been successfully installed on your system by running the following command in your terminal or command prompt:
    ```bash
