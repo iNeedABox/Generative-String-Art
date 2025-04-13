@@ -33,7 +33,8 @@ String Art Generation is a demonstration of algorithmic art generation, where li
 3. **Navigate to the project directory and install the dependencies:**
 
     ```bash
-    cd GenerativeStringArt
+    cd {your_folder}
+    cd Generative-String-Art-1.0.0
     pip install -r requirements.txt
     ```
 
