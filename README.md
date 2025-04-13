@@ -63,5 +63,8 @@ python string_art.py
 ```
 
 ## Previews
-- The following image belongs to the software's outcome:
+The following image belongs to the software's outcome:
   ![Preview Image](output/previews/string_art_animation_modules_60.gif)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) for more details.
