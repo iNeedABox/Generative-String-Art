@@ -50,4 +50,4 @@ python string_art.py
 
 ## Previews
 - The following image belongs to the software's outcome:
-  ![Preview Image](output/previews/preview.png)
+  ![Preview Image](output/previews/string_art_animation_modules_60.gif)
