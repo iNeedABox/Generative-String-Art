@@ -21,7 +21,12 @@ String Art Generation is a demonstration of algorithmic art generation, where li
    If you wish to download Python, simply click the following link: [Download Python](https://www.python.org/downloads/)
    This will take you to the official Python website.
 
-2. **Navigate to the project directory and install the dependencies:**
+   If you made it to this step, make sure Python was successfully installed on your device:
+   ```bash
+   python --version
+   ```
+
+3. **Navigate to the project directory and install the dependencies:**
 
     ```bash
     cd GenerativeStringArt
