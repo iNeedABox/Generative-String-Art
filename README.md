@@ -25,7 +25,7 @@ String Art Generation is a demonstration of algorithmic art generation, where li
    ```bash
    python --version
    ```
-   It should appear something like:
+   You should see an output similar or identical to:
    ```bash
    Python 3.13.3
    ```
