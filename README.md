@@ -21,6 +21,8 @@ String Art Generation is a demonstration of algorithmic art generation, where li
    If you wish to download Python, simply click the following link: [Download Python](https://www.python.org/downloads/)
    This will take you to the official Python website.
 
+   The system you're running on this moment may not have the Python path included in the environment variables tab, in order to fix that huge issue and to recognize Python you have to execute the following commands      in your terminal or command prompt:
+
    If you reached this step, ensure that Python has been successfully installed on your system by running the following command in your terminal or command prompt:
    ```bash
    python --version
