@@ -53,9 +53,6 @@ String Art Generation is a demonstration of algorithmic art generation, where li
     pip install -r requirements.txt
     ```
 
-   > [!CAUTION]
-   > These guides might seem helpful but they don't cover all possible configurations slash preferences.
-
 ## Run Python Script
 
 Once you have completed all the previous steps and confirmed that Python is installed on your system, you're just one step away to see it in action. To run the project, use the following commands in your terminal or command prompt:
@@ -63,6 +60,8 @@ Once you have completed all the previous steps and confirmed that Python is inst
 cd src
 python string_art.py
 ```
+> [!CAUTION]
+   > These guides might seem helpful but they don't cover all possible configurations slash preferences.
 
 ## Previews
 - The following image belongs to the software's outcome:
