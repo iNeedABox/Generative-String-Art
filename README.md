@@ -1,5 +1,5 @@
-> [!WARNING]
-> .
+> [!IMPORTANT]
+> This file contains multiple guides to led you to the right way from executing this software, but this isn't a complete guide.
 
 ## String Art Generation
 
